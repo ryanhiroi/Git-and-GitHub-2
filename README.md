@@ -3,5 +3,5 @@
 ## Steps that I do:
 
 1. Open source control on VS code
-2. Commit file, push file and sync file on there 
+2. Commit file, push file and sync file by clicking on there 
 
