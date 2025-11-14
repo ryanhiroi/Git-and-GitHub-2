@@ -7,4 +7,4 @@
 
 
 ## Small update: 
-I also try git clone and sync my edit from MacBook to my pc so it's very convinient.
+I also try git clone and sync my edit from MacBook to my pc so it's very convinient. Also, I tryna find a way to delete the .DS_Store file on Mac because it's kinda annoying.
